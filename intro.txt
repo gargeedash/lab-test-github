@@ -1,0 +1,7 @@
+name:- gargee dash 
+roll no.- 1ETBTA20241110
+branch:- b.tech AIML
+section:- B
+
+my skills are:-
+in programming:- python , c , html , css , javascript
